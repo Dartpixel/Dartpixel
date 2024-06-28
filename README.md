@@ -46,22 +46,42 @@ I'm a Developer, Competitive Programmer and Algorithms enthusiast!
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h3 align="left">⚡ Languages and Tools:</h3>
 
-<img src = "https://camo.githubusercontent.com/3e1012ffd12fb3c5a64eb49efb221ba71e9c84bb12f64b2a230351ae5a831da3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465"> <img src = "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" > <img src = "https://camo.githubusercontent.com/a00abd8cea4105fa1cad91f7235d11206b492f51afeb9b23a25d04e8f36935e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d4646443433423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d626c7565" > <img src = "https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"> <img src = "https://camo.githubusercontent.com/93c855ae825c1757f3426f05a05f4949d3b786c5b22d0edb53143a9e8f8499f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145"> <img src = "https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"> <img src = "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<img src = "https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642"> <img src = "https://camo.githubusercontent.com/dd7f390cf162d4b963b26215e6cd4373282ebe20caccfd4ef479798c2b590e38/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446a616e676f2d3039324532303f7374796c653d666f722d7468652d6261646765266c6f676f3d646a616e676f266c6f676f436f6c6f723d677265656e"> 
+![Svelte.js](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=for-the-badge&logo=tailwind-css)
 
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express.js)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-<img src = "https://camo.githubusercontent.com/9ce964cea8ccc8b3beddaba4408dfab2f42ee9daf4a4956d299ea606281f7632/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41746f6d2d3636353935433f7374796c653d666f722d7468652d6261646765266c6f676f3d41746f6d266c6f676f436f6c6f723d7768697465"> <img src = "https://camo.githubusercontent.com/5d4515b190d419f267b2d4d5c2474b338bf469decbf7adf99c5299695cefc0ca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f45636c697073652d3243323235353f7374796c653d666f722d7468652d6261646765266c6f676f3d65636c69707365266c6f676f436f6c6f723d7768697465"> <img src = "https://camo.githubusercontent.com/1c9a96a51b6fa4435847f9301c20a8dbdc515d7b657f4dede4a929a55c0b0036/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5079436861726d2d3030303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d5079436861726d266c6f676f436f6c6f723d7768697465"> <img src = "https://camo.githubusercontent.com/3cc20b905b09f53e6ecdb3f7f519007e18cce158aad7ebe113bbfcd68526bde7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7375626c696d655f746578742d2532333537353735372e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7375626c696d652d74657874266c6f676f436f6c6f723d696d706f7274616e74"> <img src = "https://camo.githubusercontent.com/42ada9cc774b9d2b4cf35691820a881d70657ae42c3a074f00c7e9add6352361/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f5f436f64652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465">
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<img src = 
-"https://camo.githubusercontent.com/06c6858186510906c21d8c951168d55d976d7dfb9176ed6125c55b8a7de0baae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4749542d4534344333303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" > <img src = "https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"> <img src = "https://camo.githubusercontent.com/71790379eb2459d3c732db11788bb8451c0a2cb106c711cc57f71bf528bdb764/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c655f436c6f75642d3432383546343f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d636c6f7564266c6f676f436f6c6f723d7768697465"> <img src = "https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)">
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-<img src = "https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"> <img src = "https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"> <img src = "https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white">
-
-<img src = "https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"> <img src = "https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
 </p>
 
@@ -113,20 +133,16 @@ I'm a Developer, Competitive Programmer and Algorithms enthusiast!
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Dartpixel/Vogue-Store" title="Vogue Store - Fully Functioning ready to use Ecommerce Webapp"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Dartpixel&repo=Vogue-Store&theme=react&border_color=61dafb&border_radius=10"></a>
 
-  <a align="right" href="https://github.com/Dartpixel/URL-Shortener" title="URL Shortener"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Dartpixel&repo=URL-shortener&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Dartpixel/fakeNewsClassifierUsingLSTM" title="Fake News Detection using LSTM RNN"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Dartpixel&repo=fakeNewsClassifierUsingLSTM&theme=react&border_color=61dafb&border_radius=10"></a>
 
-  <a align="left" href="https://github.com/Dartpixel/Vehicle-Number-Plate-Detection-and-Recognition
-" title="Vehicle Number Plate Detection and Recognition"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Dartpixel&repo=Vehicle-Number-Plate-Detection-and-Recognition&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Dartpixel/URL-Shortener" title="URL Shortener"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Dartpixel&repo=URL-shortener&theme=react&border_color=61dafb&border_radius=10"></a>
 
-  <a align="left" href="https://github.com/Dartpixel/Face-Recognition" title="Face Detection and Recognition"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Dartpixel&repo=Face-Recognition&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Dartpixel/Vehicle-Number-Plate-Detection-and-Recognition" title="Vehicle Number Plate Detection and Recognition"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Dartpixel&repo=Vehicle-Number-Plate-Detection-and-Recognition&theme=react&border_color=61dafb&border_radius=10"></a>
+
   
 </div>
-<div>
-  <h4 align="center">
-  <a href="https://github.com/Dartpixel?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+<br><br><br><br><br><br>
+<h4 align="center">
+  <a href="https://github.com/hardik302001?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-</div>
 
- <br>
- <br>
- <a href="https://www.buymeacoffee.com/Dartpixel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"    alt="Dartpixel" /></a>
