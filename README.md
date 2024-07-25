@@ -18,7 +18,7 @@ I'm a Developer, Competitive Programmer and Algorithms enthusiast!
 </h3>
   <img align = "right" src = "https://github.com/vivekweb2013/vivekweb2013/raw/main/developer.gif" width="500" height="350">
 <p align="left">
-  🔬 I'm a Sophomore, pursuing B-Tech in CSE from Graphic Era Deemed to be University. 
+  🔬 I'm a Junior, pursuing B-Tech in CSE from Graphic Era Deemed to be University. 
   <br>
   💻 I love writing code in C++ and Js seems to be my new love.
   <br>
