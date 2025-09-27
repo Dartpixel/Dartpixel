@@ -40,7 +40,6 @@ I'm a Developer, Competitive Programmer and Algorithms enthusiast!
 
 <hr>
 <h2 align="center">🛠️ Weapons</h2>
-<br><br>
 <p>
 
 <p align="left">
@@ -82,16 +81,6 @@ I'm a Developer, Competitive Programmer and Algorithms enthusiast!
 <hr>
 
 
-<h2 align="center">🐍 Just trying to be consistent here, so that the snake gets more to eat!</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dartpixel/Dartpixel/output/github-contribution-grid-snake.svg" alt="snake animation">
-</p>
-
-
-<hr>
-
-
-
 <h2 align="center">📈 Stats </h2>
 <br>
 <p align=center>
@@ -124,15 +113,15 @@ I'm a Developer, Competitive Programmer and Algorithms enthusiast!
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 
 <div width="100%" align="center">
+
+  <a align="left" href="https://github.com/Dartpixel/skyvault" title="SkyVault is a cloud-based file storage solution designed for secure, efficient, and user-friendly file and folder management."><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Dartpixel&repo=Skyvault&theme=react&border_color=61dafb&border_radius=10"></a>
+  
+  <a align="right" href="https://github.com/Dartpixel/Brain-Tumor-Segmentation-using-3D-UNet" title="Brain-Tumor-Segmentation-using-3D-UNet"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Dartpixel&repo=Brain-Tumor-Segmentation-using-3D-UNet&theme=react&border_color=61dafb&border_radius=10"></a>
+
   <a align="left" href="https://github.com/Dartpixel/Vogue-Store" title="Vogue Store - Fully Functioning ready to use Ecommerce Webapp"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Dartpixel&repo=Vogue-Store&theme=react&border_color=61dafb&border_radius=10"></a>
 
-  <a align="right" href="https://github.com/Dartpixel/fakeNewsClassifierUsingLSTM" title="Fake News Detection using LSTM RNN"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Dartpixel&repo=fakeNewsClassifierUsingLSTM&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Dartpixel/Cyber-Threat-Analysis-and-Mitigation" title="Cyber-Threat-Analysis-and-Mitigation"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Dartpixel&repo=Cyber-Threat-Analysis-and-Mitigation&theme=react&border_color=61dafb&border_radius=10"></a>
 
-  <a align="left" href="https://github.com/Dartpixel/URL-Shortener" title="URL Shortener"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Dartpixel&repo=URL-shortener&theme=react&border_color=61dafb&border_radius=10"></a>
-
-  <a align="right" href="https://github.com/Dartpixel/Vehicle-Number-Plate-Detection-and-Recognition" title="Vehicle Number Plate Detection and Recognition"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Dartpixel&repo=Vehicle-Number-Plate-Detection-and-Recognition&theme=react&border_color=61dafb&border_radius=10"></a>
-
-  
 </div>
 <br><br><br><br><br><br>
 <h4 align="center">
