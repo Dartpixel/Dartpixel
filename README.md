@@ -18,7 +18,7 @@ I'm a Developer, Competitive Programmer and Algorithms enthusiast!
 </h3>
   <img align = "right" src = "https://github.com/vivekweb2013/vivekweb2013/raw/main/developer.gif" width="500" height="350">
 <p align="left">
-  🔬 I'm a Senior, pursuing B-Tech in CSE from Graphic Era Deemed to be University. 
+  🔬 Graduated B.Tech in CSE from Graphic Era Deemed to be University, 2k25.
   <br>
   💻 I love writing code in C++ and Js seems to be my new love.
   <br>
@@ -36,7 +36,7 @@ I'm a Developer, Competitive Programmer and Algorithms enthusiast!
 </h5>
 </p>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <hr>
 <h2 align="center">🛠️ Weapons</h2>
@@ -48,9 +48,10 @@ I'm a Developer, Competitive Programmer and Algorithms enthusiast!
 
 <h3 align="left">⚡ Languages and Tools:</h3>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -65,15 +66,14 @@ I'm a Developer, Competitive Programmer and Algorithms enthusiast!
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
@@ -82,12 +82,11 @@ I'm a Developer, Competitive Programmer and Algorithms enthusiast!
 <hr>
 
 
-
-<h2 align="center">🐍 Just trying to be consistent here, so that the snake gets more to eat! </h2>
+<h2 align="center">🐍 Just trying to be consistent here, so that the snake gets more to eat!</h2>
 <p align="center">
-  <img src= "https://github.com/Dartpixel/Dartpixel/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://raw.githubusercontent.com/Dartpixel/Dartpixel/output/github-contribution-grid-snake.svg" alt="snake animation">
 </p>
-<br>
+
 
 <hr>
 
